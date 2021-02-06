@@ -1,0 +1,16 @@
+C:\Users\enes_\source\repos\GamePad\bin\Debug\GamePad.exe.config
+C:\Users\enes_\source\repos\GamePad\bin\Debug\GamePad.exe
+C:\Users\enes_\source\repos\GamePad\bin\Debug\GamePad.pdb
+C:\Users\enes_\source\repos\GamePad\obj\Debug\GamePad.csprojAssemblyReference.cache
+C:\Users\enes_\source\repos\GamePad\obj\Debug\GamePad.Form1.resources
+C:\Users\enes_\source\repos\GamePad\obj\Debug\GamePad.Properties.Resources.resources
+C:\Users\enes_\source\repos\GamePad\obj\Debug\GamePad.csproj.GenerateResource.cache
+C:\Users\enes_\source\repos\GamePad\obj\Debug\GamePad.csproj.CoreCompileInputs.cache
+C:\Users\enes_\source\repos\GamePad\obj\Debug\GamePad.exe
+C:\Users\enes_\source\repos\GamePad\obj\Debug\GamePad.pdb
+C:\Users\enes_\source\repos\GamePad\bin\Debug\Interop.WMPLib.dll
+C:\Users\enes_\source\repos\GamePad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\enes_\source\repos\GamePad\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\enes_\source\repos\GamePad\obj\Debug\Interop.WMPLib.dll
+C:\Users\enes_\source\repos\GamePad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\enes_\source\repos\GamePad\obj\Debug\GamePad.csproj.ResolveComReference.cache
