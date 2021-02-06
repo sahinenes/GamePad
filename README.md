@@ -4,6 +4,7 @@
 - 4x4 keypad
 - Atmel Studio
 - Visual Studio 2019
+- Not : Eğer Visual Studio programı bilgisayarınızda bulunmuyor ise Masaüstü Uygulaması Klasörünün Debug kısmında exe dosyası bulunmaktadır
 ### Amaç
 - Arduino ve Keypad kullanılarak bilgisayar kontrolü
 ### Kullanım
